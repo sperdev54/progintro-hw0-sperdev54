@@ -88,3 +88,21 @@ petra
 bytes12:
 το path:/home/byte12/.cache/which_command_is_the_best/
 αρα το basename ειναι which_command_is_the_best
+
+bytes13:
+1)
+commit ea62c4661549341b3034ca2116cad72eadec180c (HEAD -> master)
+Author: Takis Lavrakis <lavrakis@gmail.com>
+Date:   Sun Oct 12 03:53:12 2025 -0400
+
+    Add a brief description for the repo.
+
+    More to be added later on.
+2)
+commit 860f32c70e2caaa7a3cb179bfb0a0199a273fbed
+Author: Thanos Barbounis <barbounis@gmail.com>
+Date:   Sun Oct 12 03:48:31 2025 -0400
+
+    Created my README file.
+
+    Reminder to self: descriptive_git_commit_messages_are_great
