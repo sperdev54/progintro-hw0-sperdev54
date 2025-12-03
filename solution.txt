@@ -84,3 +84,7 @@ Alyce
 
 bytes11:
 petra
+
+bytes12:
+το path:/home/byte12/.cache/which_command_is_the_best/
+αρα το basename ειναι which_command_is_the_best
