@@ -67,3 +67,9 @@ unzipping_is_a_piece_of_cake
 bytes7:
 
 tar_jokes_cant_stick
+
+bytes8:
+ÿï» cant_keep_secrets_from_you                                        ^MThere is absolutely nothing to see here. Move along.                                            $
+~
+~
+:set list
