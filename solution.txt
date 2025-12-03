@@ -29,3 +29,6 @@ OPTIONS
 
 AUTHOR
        Barry Poppins (Copyright 2024).
+
+bytes2:
+/home/byte2/shakespeare.txt:No one will find this: grep_and_you_will_find
