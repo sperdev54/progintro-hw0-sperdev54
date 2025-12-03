@@ -43,3 +43,15 @@ byte3@ip-172-31-37-131:~$ diff shakespeare.txt shakespeare.modified.txt
 byte3@ip-172-31-37-131:~$
 
 Η λέξη που άλλαξε είναι η "players" και έγινε "programmers"
+
+
+bytes4:
+byte4@ip-172-31-37-131:~$ find /home/byte4 -type f -name "cup.txt"
+/home/byte4/maze/left/right/8/cup.txt
+byte4@ip-172-31-37-131:~$ cat /home/byte4/maze/left/right/8/cup.txt
+the_triwizard_cup_is_now_yours
+byte4@ip-172-31-37-131:~$
+
+η μυστική λεξη ειναι
+
+the_triwizard_cup_is_now_yours
