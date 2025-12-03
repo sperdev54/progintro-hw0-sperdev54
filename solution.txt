@@ -1,3 +1,31 @@
 sperdev54.github.io/progintro-hw0-sperdev54
 
 bytes0:  το string ειναι: you_just_mastered_changing_directories
+
+byte 1:
+echo Running the program to find out what it does?
+echo Remember, program output is not a manual page - look elsewhere.
+
+
+SUPERCALIFRAGILISTICEXPIALIDOCIOUS(1)                    User Commands                   SUPERCALIFRAGILISTICEXPIALIDOCIOUS(1)
+
+NAME
+       supercalifragilisticexpialidocious - even though the sound of it may sound quite atrocious!
+
+SYNOPSIS
+       supercalifragilisticexpialidocious
+
+DESCRIPTION
+       This is a fake command that serves no real purpose other than to teach about using the `man` command.
+
+       When invoked, it reminds the user that running a program is not the best way to find out what it does :)
+
+       If you made it this far, congratulations! Here's the code you were looking for:
+
+            in_every_job_that_must_be_done_there_is_an_element_of_fun
+
+OPTIONS
+       None. This command is just for fun.
+
+AUTHOR
+       Barry Poppins (Copyright 2024).
